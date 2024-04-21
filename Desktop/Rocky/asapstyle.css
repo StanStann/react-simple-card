@@ -1,0 +1,143 @@
+body{
+	background-image: url("afri3.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: lightslategray;
+
+}
+
+.flex-container1{
+	display: flex;
+	margin-left: 100px;
+}
+
+#icon-2{
+	margin-left: 30px;
+}
+
+#icon-3{
+	margin-left: 30px;
+}
+
+#icon-4{
+	margin-left: 30px;
+}
+
+#icon-5{
+	margin-left: 850px;
+}
+
+
+.flex-container2{
+	display: flex;
+	margin-left: 250px;
+}
+
+.flex-container2 hover: {
+	
+}
+
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8{
+	font-size: 25px;
+	margin-left: 25px;
+}
+
+
+
+.flex-container3{
+	display: flex;
+	margin-left: 600px;
+}
+
+#pause-icon,#sound-icon{
+	margin-left: 20px;
+}
+
+
+
+.flex-container4{
+	display: flex;
+	font-size: 10px;
+	margin-left: 605px;
+	color: gray;
+}
+
+
+#pause{
+	margin-left: 30px;
+}
+
+#sound{
+	margin-left: 25px;
+}
+
+.flex-container5{
+	margin-left: 605px;
+	color: darkseagreen;
+	font-size: 10px;
+}
+
+.flex-container6{
+	display: flex;
+	margin-left: 592px;
+}
+
+#icon-21, #icon-31, #icon-41{
+	margin-left: 25px;
+}
+
+
+.flex-container7{
+	display: flex;
+	margin-left: 537px;
+
+}
+
+#paragraph{
+	font-size: 13px;
+	margin-left: 5px;
+}
+
+
+.flex-container8{
+	margin-left: 640px;
+	font-size: 11px;
+}
+
+a:visited{
+	color: steelblue;
+}
+
+a:hover{
+	color: cornflowerblue;
+}
+
+a:active{
+	color: cadetblue;
+}
+
+
+.flex-container1 a:visited{
+	color: lightslategray;
+}
+
+.flex-container1 a:hover{
+	color:darkgray ;
+}
+
+.flex-container1 a:active{
+	color: orangered;
+}
+
+
+.flex-container3 a:visited{
+	color: lightslategray;
+}
+
+.flex-container3 a:active{
+	color: indianred;
+}
+
+.flex-container3 a:hover{
+	color: orangered;
+}
